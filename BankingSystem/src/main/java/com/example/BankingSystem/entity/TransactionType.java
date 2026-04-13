@@ -2,6 +2,6 @@ package com.example.BankingSystem.entity;
 
 public enum TransactionType {
     DEPOSIT,
-    WITHDRAWAL,
+    WITHDRAW,
     TRANSFER
 }
